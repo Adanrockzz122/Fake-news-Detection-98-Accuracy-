@@ -140,19 +140,6 @@ Here’s a sample input and the corresponding prediction:
 - **Input**: `"Aliens have landed on Earth and taken over the government."`
 - **Prediction**: `Fake News`
 
----
-
-## **Screenshots**
-
-### **Home Page**
-
-![Home Page Screenshot](https://via.placeholder.com/800x400.png?text=Home+Page+Screenshot)
-
-### **Prediction Result**
-
-![Prediction Result Screenshot](https://via.placeholder.com/800x400.png?text=Prediction+Result+Screenshot)
-
----
 
 ## **Future Enhancements**
 
@@ -166,17 +153,6 @@ Here’s a sample input and the corresponding prediction:
 
 This project is licensed under the **MIT License**.
 
----
-
-## **Contact**
-
-For any queries or suggestions, feel free to contact:
-
-- **Name**: Mohammed Adan
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **GitHub**: [your-username](https://github.com/your-username)
-
----
 
 This README file should be sufficient for your GitHub repository. It provides a detailed explanation of the project, setup instructions, and usage guide. Make sure to replace placeholders like `"your-username"` and `"your-email@example.com"` with your actual information.
 
